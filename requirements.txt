@@ -1,0 +1,10 @@
+langchain==0.3.21
+langchain-community==0.3.20
+langchain-groq==0.3.1
+langgraph==0.3.21
+langchain-chroma==0.2.2
+langchain-huggingface==0.1.2
+langchain-docling==0.2.0
+pandas==2.2.3
+numexpr==2.10.2
+python-dotenv==1.1.0
