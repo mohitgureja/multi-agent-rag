@@ -69,3 +69,6 @@ Ensure you have the following installed on your system:
 
 
 5. Run all cells.
+
+
+- You can access the notebook here [multi-agent.ipynb](multi-agent.ipynb). Please refer to **Test Inference** section to see the final query results.
