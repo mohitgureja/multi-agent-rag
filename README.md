@@ -72,3 +72,4 @@ Ensure you have the following installed on your system:
 
 
 - You can access the notebook here [multi-agent.ipynb](multi-agent.ipynb). Please refer to **Test Inference** section to see the final query results.
+- **Future Improvements** : We can use *chainlit* framework to directly integrate this LangGraph Agent to use as a Chatbot.
